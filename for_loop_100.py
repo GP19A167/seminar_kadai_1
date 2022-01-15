@@ -7,4 +7,3 @@ for i in range(1, 201):
         print ('就活したい')
     else:
         print(i)
-        
